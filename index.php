@@ -420,7 +420,7 @@ $korrektNummer = "0";
                 </p>
                 <p>För att vi ska kunna genomföra ett LAN måste alla deltagare vara införstådda i reglerna:
                   <ul>
-                    <li>Ta med egen dator och kablar.</li>
+                    <li>Ta med egen dator och kablar...</li>
                     <li>LAN:et är 100% alkohol- och drogfritt.</li>
                     <li>Bara personer som anmält sig får komma in.</li>
                     <li>Ingen illegal aktivitet får föregå i eller utanför lokalerna (gäller även illegal nedladdning).</li>
