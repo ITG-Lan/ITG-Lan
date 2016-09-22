@@ -1,0 +1,9 @@
+2015-06-02 15:27:51.840857|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-06-02 15:27:51.842857|INFO    |VirtualServer |  1| client 'server'(id:0) added privilege key for servergroup 'Server Admin'(id:6)
+2015-06-02 15:27:51.842857|WARNING |VirtualServer |  1| --------------------------------------------------------
+2015-06-02 15:27:51.842857|WARNING |VirtualServer |  1| ServerAdmin privilege key created, please use the line below
+2015-06-02 15:27:51.842857|WARNING |VirtualServer |  1| token=ldIRe67VPCuzbBkgFRlcb7+aQ7e2BSN2GlW8Nun3
+2015-06-02 15:27:51.842857|WARNING |VirtualServer |  1| --------------------------------------------------------
+2015-06-02 15:29:50.438640|INFO    |VirtualServer |  1| client (id:2) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2015-06-02 15:29:50.438640|INFO    |VirtualServer |  1| client 'McKnubb'(id:2) used privilege key 'ldIRe67VPCuzbBkgFRlcb7+aQ7e2BSN2GlW8Nun3' and was added to servergroup 'Server Admin'(id:6)
+2015-06-02 16:03:16.659389|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:100) was added by 'McKnubb'(id:2) to channel 'CoolKidz - room'(id:4)
