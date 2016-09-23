@@ -14,18 +14,18 @@
       <div class="row">
         <div id="graypanel" class="col-xs-12 col-sm-10 col-md-10 col-sm-offset-1 col-md-offset-1">
           <div class="panel-body">
-            <div id="Fabian_Haavisto"class="text-center col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" src="images/bread.gif" alt="aww yiss"></div>
-            
+            <div id="Fabian_Haavisto"class="text-center col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" src="images/harambe.jpg" alt="aww yiss"></div>
+
             <div class="col-xs-6 col-sm-6 col-md-6">
               <div class="panel">
                 <div class="panel-body">
                   <h1 class="itg">ITG-LAN Västerås</h1>
-                  <p>Du har nu anmält dig till ITG-Västerås LAN. Vi önskar dig varmt välkommen till IT-Gymnasiet den 20/2 kl 18.00 - 22/2.</p>
+                  <p>Du har nu anmält dig till ITG-Västerås LAN. Vi önskar dig varmt välkommen till IT-Gymnasiet den 28/10 kl 18.00 - 30/10.</p>
                 </div>
               </div>
             </div>
 
-            <div id="Fabian_Haavisto"class="text-center col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" src="images/bread.gif" alt="aww yiss"></div>            
+            <div id="Fabian_Haavisto"class="text-center col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" src="images/harambe.jpg" alt="aww yiss"></div>
           </div>
             <div id="omdir" class="panel">
               <div class="panel-body">

@@ -72,11 +72,11 @@ register();
                 <h1 class="itg">Info för föräldrar</h1>
                 <p>
                   Det här är informationssidan för IT-Gymnasiet Västerås LAN. Denna sida är riktad till föräldrar som har frågor osv.
-                  LAN:et kommer att pågå under valborgshelgen 30/4 - 2/5 för alla på IT-gymnasiet och för alla ungdomar som sökt IT-linjen i Västerås.
+                  LAN:et kommer att pågå under helgen innan höstlovet 28/10 - 30/10 för alla på IT-gymnasiet och för alla ungdomar som sökt IT-linjen i Västerås.
                 </p>
                 <div>
                   <p>
-                    Vi är åtta studenter inom IT- och el-programmet som valt att som gymnasiearbete engagera oss i ett antal evenemang för ungdomar i Västerås.
+                    Vi är sex studenter inom IT- och el-programmet som valt att som gymnasiearbete engagera oss i ett antal evenemang för ungdomar i Västerås.
                     Slutprojektet kommer vara under valborg som ett alternativ till ungdomar som inte vill vara ute bland alkohol och droger.
                     LAN:et är 100% alkohol- och drog-fritt (se regler).
                   </p>
@@ -86,7 +86,6 @@ register();
                     Ofta håller eventet på under några dagar (och nätter) där personerna umgås och träffar vänner.
                   </p>
                   <p>
-                    Tidigare under läsåret har vi hållit i två mindre evenemang och det sista kommer att vara under valborgshelgen.
                     Vid skolans LAN evenemang finns alltid minst två lärare på plats samt en grupp elever som ser till att allting fungerar som det ska samt att alla trivs
                     under evenemanget. Vid ingång på LAN:et lämnas en depositionsavgift på 50 kronor till ansvarande elever som bevaras säkert
                     tills eleven lämnar LAN:et med en ren och städad plats. Om eleven inte städat sin plats när den lämnar LAN:et betalas inte avgiften tillbaka till eleven.
@@ -160,16 +159,16 @@ register();
                   <br>
                   <span class="phone">073-730 90 99</span>
                   <br>
-                  <a href="mailto:elias.tangring@elev.it-gymnasiet.se" class="email strong">walter.kindblad@elev.it-gymnasiet.se</a>
+                  <a href="mailto:walterkindblad@gmail.com" class="email strong">walter.kindblad@elev.it-gymnasiet.se</a>
                 </div>
                 <div id="presonal" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-lg-offset-0 col-md-offset-0 col-sm-offset-0">
-                  <span class="name">TBA</span>
+                  <span class="name">Magnus Petterson</span>
                   <br>
                   <span class="role">Elev, It-Gymnasiet EL - El Nätverk</span>
                   <br>
                   <span class="phone">Inget nummer tillgängligt</span>
                   <br>
-                  <a href="mailto:Oscar.Nore@elev.it-gymnasiet.se" class="email strong">N/A</a>
+                  <a href="mailto:Magnus.Petterson@elev.it-gymnasiet.se" class="email strong">N/A</a>
                 </div>
               </div>
             </div>
