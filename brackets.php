@@ -77,6 +77,9 @@ register();
                 <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
                   <div class="image">
                     <img alt="" src="images/bracket.png" />
+					<div class= "brack-header"> 
+					<div>Hej </div>
+					</div>
                       <div class="text">
                         <div class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
                           <div id="ladder11"><?php echo "<td>$row[1]</td>"; ?></div>
