@@ -420,7 +420,7 @@ $korrektNummer = "0";
                 </p>
                 <p>För att vi ska kunna genomföra ett LAN måste alla deltagare vara införstådda i reglerna:
                   <ul>
-                    <li>Ta med egen dator och kablar...</li>
+                    <li>Ta med egen dator och kablar.</li>
                     <li>LAN:et är 100% alkohol- och drogfritt.</li>
                     <li>Bara personer som anmält sig får komma in.</li>
                     <li>Ingen illegal aktivitet får föregå i eller utanför lokalerna (gäller även illegal nedladdning).</li>
@@ -428,16 +428,15 @@ $korrektNummer = "0";
                     <li>Allt som lämnas kvar på LANet i form av drickor, pengar eller annan mat kommer gå till LAN crew.</li>
                     <li>Inga dörrar får lämnas öppna då Securitas bevakar området och kostnad kommer debiteras.</li>
                     <li>Tag med ethernet kabel och grenuttag då vi inte har så det räcker till alla.</li>
+                    <li>Att sitta vid andras datorer är inte tillåtet utan tillåtelse från datorns ägare.</li>
+                    <li>Stöld är inte tillåtet i någon form, litet som smått, detta är olagligt och kommer vid allvarligare incidenter att anmälas.</li>
 
                   </ul>
                   Om du skulle bryta mot dessa regler så har personal och annan crew rätt att vidta lämpliga åtgärder såsom t.ex. stänga av ditt nätverk eller avvisa dig från lokalen.
                 </p>
-                <p>
-                  Tävlingar kommer att arrangeras på LANet, för att anmäla sig till counter strike turneringen gå till Event-Tävlingar och anmäl er.
-                </p>
                 <div id="viktigt">
                   <div id="viktigt-text">
-                    Vi vill passa på att förklara för alla att denna sidan genomgår uppbyggnad just nu. Detta innebär att det kommer ske ändringar i text, bilder osv. Dock kommer er anmälan till LAN:et inte att försvinna. <br>
+                    Vi vill passa på att förklara för alla att denna sidan genomgår uppbyggnad just nu. Detta innebär att det kommer ske ändringar i text, bilder och så vidare. Dock kommer er anmälan till LAN:et inte att försvinna. <br>
                     Tack för att ni förstår. /LAN Crew
                   </div>
                 </div>
