@@ -65,7 +65,7 @@ register();
           <div class="panel">
             <div class="panel-body">
               <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 lead">
-                Här är brackets för Counter Strike. Änmälan sker på Event-Tävlingar.  <br>
+                Här är brackets för olika spel. Änmälan sker på Event-Tävlingar.  <br>
                 Det kommer att spelas klassisk 5 VS 5.
               </div>
               <!--Selection of rows-->
