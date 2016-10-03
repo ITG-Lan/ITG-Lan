@@ -382,8 +382,6 @@ $korrektNummer = "0";
             <ul class="dropdown-menu" role="menu">
               <li><a href="events.php">Tävlingar</a></li>
               <li><a href="brackets.php">Brackets</a></li>
-              <li class="divider"></li>
-              <li><a href="info_events.php">Info tävlingar</a></li>
             </ul>
           </li>
         </ul>
