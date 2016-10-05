@@ -427,7 +427,7 @@ $korrektNummer = "0";
                     <li>Inga dörrar får lämnas öppna då Securitas bevakar området och kostnad kommer debiteras.</li>
                     <li>Tag med ethernet kabel och grenuttag då vi inte har så det räcker till alla.</li>
                     <li>Att sitta vid andras datorer är inte tillåtet utan tillåtelse från datorns ägare.</li>
-                    <li>Stöld är inte tillåtet i någon form, litet som smått, detta är olagligt och kommer vid allvarligare incidenter att anmälas.</li>
+                    <li>Stöld är inte tillåtet i någon form, litet som smått, detta är olagligt och kommer vid allvarligare incidenter att polisanmälas.</li>
 
                   </ul>
                   Om du skulle bryta mot dessa regler så har personal och annan crew rätt att vidta lämpliga åtgärder såsom t.ex. stänga av ditt nätverk eller avvisa dig från lokalen.
